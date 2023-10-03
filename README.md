@@ -10,16 +10,6 @@ This portfolio website offers a glimpse into my skills, experience, and the serv
 - Examples of some of my recent projects.
 - A simple contact form to reach out to me.
 
-## Example Projects
-
-Here are a few projects I've worked on:
-
-1. [Project 1](link-to-project-1) - Description of the project.
-2. [Project 2](link-to-project-2) - Description of the project.
-3. [Project 3](link-to-project-3) - Description of the project.
-
-Feel free to explore these projects to get a sense of my work.
-
 ## Contact
 
 If you'd like to discuss a project, collaborate, or just say hello, you can reach me through the contact form on my website.
